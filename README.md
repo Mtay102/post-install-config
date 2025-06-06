@@ -92,11 +92,10 @@ Admin Panel -> Agents -> Add New<br>
 <p>
 Configure Users (customers)<br>
 Agent Panel -> Users -> Add New<br>
-  - Karen<br>
-  - Ken
+  - Karen
 </p>
 
-img 
+![ost5](https://github.com/user-attachments/assets/e56cb12a-6ff0-46e1-b3f2-8ec246d968d1)
 
 <br>
 
@@ -109,10 +108,9 @@ Admin Panel -> Manage -> SLA<br>
   - Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 
-img 
+![os6](https://github.com/user-attachments/assets/057606a7-2cf8-437d-811b-a3e1270b8bab)
 
 <br>
-
 
 <p>
 Configure Help Topics (For when users create a ticket)<br>
@@ -124,4 +122,5 @@ Admin Panel -> Manage -> Help Topics<br>
   - Other
 </p>
 
-img 
+![ost7](https://github.com/user-attachments/assets/90e54016-e659-476f-864a-4b7daf00380f)
+
